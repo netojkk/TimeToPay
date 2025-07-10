@@ -1,0 +1,2 @@
+ALTER TABLE subscription
+ADD COLUMN active BOOLEAN DEFAULT TRUE;
