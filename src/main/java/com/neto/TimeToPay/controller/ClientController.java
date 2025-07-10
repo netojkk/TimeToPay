@@ -3,7 +3,6 @@ package com.neto.TimeToPay.controller;
 import com.neto.TimeToPay.dto.*;
 import com.neto.TimeToPay.services.ClientService;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
